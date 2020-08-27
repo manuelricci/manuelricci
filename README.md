@@ -42,11 +42,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Usare Gulp per sviluppare temi e plugin WordPress](https://manuelricci.com/usare-gulp-per-sviluppare-temi-e-plugin-wordpress/)
-- [History API: a cosa servono e come si usano?](https://manuelricci.com/history-api-a-cosa-servono-e-come-si-usano/)
-- [Progressive Web App: i concetti di base](https://manuelricci.com/progressive-web-app-i-concetti-di-base/)
-- [Come migliorare lo sviluppo frontend con Gulp](https://manuelricci.com/ottimizzare-frontend-gulp/)
-- [Come viene interpretato un documento HTML](https://manuelricci.com/come-viene-interpretato-un-documento-html/)
+- [A quick introduction to SVG animation](https://dev.to/manuelricci/a-quick-introduction-to-svg-animation-57a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
