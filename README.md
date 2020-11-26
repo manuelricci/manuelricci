@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on my new website (a decoupled WordPress
   installation)
 - 🌱 I'm currently learning everything
-- 💯 2020 Goals: Pay more attention to my self care
+- 💯 2020 Goals: Pay more attention to my self care and survive
 - 📫 How to reach me: [send an email](mailto:info@manuelricci.com)
 - ⚡ Fun fact: I love Star Wars and Halo videogame series
 
