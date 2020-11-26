@@ -1,4 +1,4 @@
-### Hello there, I'm [Manuel][website] 👋
+### Hello there, I'm [Manuel](https:/www.manuelricci.com) 👋
 
 ## I'm an Hardcore Videogamer, Movie Enthusiast, Developer and Teacher!
 
@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="manuelricci.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
-[<img align="left" alt="Manuel Ricci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-[<img align="left" alt="Manuel Ricci | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="Manuel Ricci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+[<img align="left" alt="manuelricci.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https:/www.manuelricci.com)
+[<img align="left" alt="Manuel Ricci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/ManuelWebDev)
+[<img align="left" alt="Manuel Ricci | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/riccimanuel/)
+[<img align="left" alt="Manuel Ricci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/manuelricciwc/)
 
 <br />
 
