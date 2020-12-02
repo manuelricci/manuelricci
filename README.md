@@ -42,11 +42,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Come si implementano i dati strutturati](https://manuelricci.com/come-si-implementano-i-dati-strutturati/)
-- [Terminale 101: I comandi di base](https://manuelricci.com/terminale-101-i-comandi-di-base/)
-- [Usare Gulp per sviluppare temi e plugin WordPress](https://manuelricci.com/usare-gulp-per-sviluppare-temi-e-plugin-wordpress/)
-- [History API: a cosa servono e come si usano?](https://manuelricci.com/history-api-a-cosa-servono-e-come-si-usano/)
-- [Progressive Web App: i concetti di base](https://manuelricci.com/progressive-web-app-i-concetti-di-base/)
+- [A quick introduction to SVG animation](https://dev.to/manuelricci/a-quick-introduction-to-svg-animation-57a6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
