@@ -1,11 +1,10 @@
-### Hello there, I'm [Manuel](https:/www.manuelricci.com) 👋
+### Hello there, I'm Manuel 👋
 
 ## I'm an Hardcore Videogamer, Movie Enthusiast, Developer and Teacher!
 
-- 🔭 I'm currently working on my new website (a decoupled WordPress
-  installation)
+- 🔭 I'm currently working on a side projects that probably will die here in github like the others
 - 🌱 I'm currently learning everything
-- 💯 2020 Goals: Pay more attention to my self care and survive
+- 💯 2021 Goals: Survive like in 2020
 - 📫 How to reach me: [send an email](mailto:info@manuelricci.com)
 - ⚡ Fun fact: I love Star Wars and Halo videogame series
 
