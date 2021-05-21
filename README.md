@@ -36,16 +36,6 @@
 <br>
 <br>
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [A quick introduction to SVG animation](https://dev.to/manuelricci/a-quick-introduction-to-svg-animation-57a6)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 [![Manuel Ricci's github stats](https://github-readme-stats.vercel.app/api?username=manuelricci&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/manuelricci)
 
 ---
