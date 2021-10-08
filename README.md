@@ -1,18 +1,19 @@
 ### Hello there, I'm Manuel 👋
 
-## I'm an Hardcore Videogamer, Movie Enthusiast, Developer and Teacher!
+## I'm an Hardcore Gamer, Movie Enthusiast, Developer and Teacher!
 
-- 🔭 I'm currently working on a side projects that probably will die here in github like the others
+- 🔭 I'm currently working on a side projects that probably will die here like the others
 - 🌱 I'm currently learning everything
 - 💯 2021 Goals: Survive like in 2020
 - 📫 How to reach me: [send an email](mailto:info@manuelricci.com)
-- ⚡ Fun fact: I love Star Wars and Halo videogame series
+- ⚡ Fun fact: I'm a living encyclopedia about Star Wars
 
 ### Connect with me:
 
 [<img align="left" alt="manuelricci.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https:/www.manuelricci.com)
-[<img align="left" alt="Manuel Ricci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/ManuelWebDev)
+[<img align="left" alt="Manuel Ricci | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">](https://www.youtube.com/channel/UCfDyxJKu5QmNmvjIciGAl7A)
 [<img align="left" alt="Manuel Ricci | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/riccimanuel/)
+[<img align="left" alt="Manuel Ricci | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/ManuelWebDev)
 [<img align="left" alt="Manuel Ricci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/manuelricciwc/)
 
 <br />
@@ -25,6 +26,7 @@
 <img align="left" alt="SASS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
 <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="Node JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" alt="Node JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="left" alt="PHP" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img align="left" alt="WordPress" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
