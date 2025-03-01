@@ -8,7 +8,7 @@
 - 🌱 **Always learning**, currently exploring Software Architecture and DevOps
 - 💬 **I love discussing**: UX, web performance, accessibility, DevOps, and best practices
 - 📫 **Reach me at**: [manuel@webtea.it](mailto:manuel@webtea.it)
-- 🎮 **Fun fact**: I could probably beat you in any multiplayer game 🎮
+- 💾 **Fact**: Halo 3 is the best Halo. This is not an opinion, it’s a commit message. 🎮
 
 🇮🇹 **Se parli italiano**, dai un’occhiata al mio canale YouTube per contenuti in italiano sullo sviluppo web!
 
